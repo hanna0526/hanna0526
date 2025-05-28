@@ -1,4 +1,4 @@
-## Hi I'm hanna 👋
+## Hello 👋
 
 <!--
 **hanna0526/hanna0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
